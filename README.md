@@ -7,7 +7,7 @@
 <h2>About Me</h2>
 <hr>
 <p class="mb-3">
-Hi, Ravalino Ghaisan Hasibuan is my goverment name, some may refer to me simply as Rava, Currently i am a student at <a href="https://smkn1jakarta.sch.id/">State Vocational High School 1 Jakarta<a/>, im interested in the field of Software engineering, game development, and a tad of Graphic design. I hope to keep learning and improving while helping the team wherever I can.
+  Hi, Ravalino Ghaisan Hasibuan is my goverment name, some may refer to me simply as Rava, Currently i am a student at <a href="https://smkn1jakarta.sch.id/">State Vocational High School 1 Jakarta<a/>, im interested in the field of Software engineering, game development, and a tad of Graphic design. I hope to keep learning and improving while helping the team wherever I can.
 </p>
 <br>
 
@@ -17,7 +17,7 @@ Hi, Ravalino Ghaisan Hasibuan is my goverment name, some may refer to me simply 
   [2024 - now] <a href="https://smkn1jakarta.sch.id/">State Vocational High School 1 Jakarta<a/> | Major: Software engineering
 </li>
 <p class="mb-3">
-  This major teaches students the skills and knowledge that are mandatory to create, manage, and develop many kinds of software, while also training students into related speciality such as cyber security and data analytics.
+  This major teaches students the skills and knowledge that are mandatory to create, manage, and develop many kinds of software, while also training students into related speciality such as basics of cyber security and basics of data analytics.
 </p>
 <br>
 
