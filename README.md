@@ -17,13 +17,11 @@ Hi, Ravalino Ghaisan Hasibuan is my goverment name, some may refer to me simply 
   [2024 - now] <a href="https://smkn1jakarta.sch.id/">State Vocational High School 1 Jakarta<a/> | Major: Software engineering
 </li>
 <p class="mb-3">
-  This major teaches students the skills and knowledge that are mandatory to create, manage, and develop many kinds of software, while also  
-  
-Jurusan ini mempersiapkan siswa/i untuk memiliki kemampuan dalam menciptakan, mengelola dan mengembangkan berbagai bentuk sistem perangkat lunak, seperti aplikasi mobile, aplikasi desktop, dan website 
+  This major teaches students the skills and knowledge that are mandatory to create, manage, and develop many kinds of software, while also training students into related speciality such as cyber security and data analytics.
 </p>
 <br>
 
-<h2>Kemampuan</h2>
+<h2>Skills</h2>
 <hr>
 <p class="mb-3">
 <li>
