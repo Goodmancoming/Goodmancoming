@@ -1,5 +1,5 @@
-<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-  <style>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <!--<style>
     * {
       font-family: 'Times New Roman', Times, serif;
     }
@@ -9,12 +9,17 @@
 <p class="mb-3">
 Saya, Ravalino Ghaisan H, seorang murid yang penuh semangat dan siap untuk membawa energi positif ke dunia profesional. Dengan latar belakang pendidikan dalam ilmu perangkat lunak, saya telah mendapatkan pemahaman yang kuat tentang ilmu perangkat lumak dan keterampilan praktis yang diperlukan untuk berkembang di dunia kerja.
 </p>
+<br>
 
 <h2>Pendidikan</h2>
 <hr>
+<p>
+  [2024 - saat ini] SMKN 1 Jakarta | Jurusan Rekayasa Perangkat Lunak
+</p>
 <p class="mb-3">
 Jurusan ini mempersiapkan siswa/i untuk memiliki kemampuan dalam menciptakan, mengelola dan mengembangkan berbagai bentuk sistem perangkat lunak, seperti aplikasi mobile, aplikasi desktop, dan website 
 </p>
+<br>
 
 <h2>Kemampuan</h2>
 <hr>
