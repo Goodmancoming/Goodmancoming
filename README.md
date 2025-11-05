@@ -7,7 +7,7 @@
 <h2>About Me</h2>
 <hr>
 <p class="mb-3">
-  Hi, Ravalino Ghaisan Hasibuan is my goverment name, some may refer to me simply as Rava, Currently i am a student at <a href="https://smkn1jakarta.sch.id/">State Vocational High School 1 Jakarta<a/>, im interested in the field of Software engineering, game development, and a tad of Graphic design. I hope to keep learning and improving while helping the team wherever I can.
+  Hi, Ravalino Ghaisan Hasibuan is my goverment name, some may refer to me simply as Rava, Currently i am a student at <a href="https://smkn1jakarta.sch.id/">State Vocational High School 1 Jakarta<a/>, im interested in the field of web development, graphic design, and especially game development. I hope to keep learning and improving while helping the team wherever I can.
 </p>
 <br>
 
@@ -37,7 +37,7 @@
   MySQL
 </li>
 <li>
-  Desain grafis
+  Graphic design
 </li>
 <li>
   Ms Family
@@ -60,6 +60,7 @@
 connect with me at <a href="https://www.linkedin.com/in/ravalino-ghaisan-hasibuan-4077a2343/">Linkedin</a>
 <br>
 interested to create a ugc item at <a href="https://www.roblox.com/users/2243537164/profile">Roblox</a>?
+<br>
 <!---
 Goodmancoming/Goodmancoming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
