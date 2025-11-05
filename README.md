@@ -13,9 +13,9 @@ Saya, Ravalino Ghaisan H, seorang murid yang penuh semangat dan siap untuk memba
 
 <h2>Pendidikan</h2>
 <hr>
-<p>
+<li>
   [2024 - saat ini] SMKN 1 Jakarta | Jurusan Rekayasa Perangkat Lunak
-</p>
+</li>
 <p class="mb-3">
 Jurusan ini mempersiapkan siswa/i untuk memiliki kemampuan dalam menciptakan, mengelola dan mengembangkan berbagai bentuk sistem perangkat lunak, seperti aplikasi mobile, aplikasi desktop, dan website 
 </p>
