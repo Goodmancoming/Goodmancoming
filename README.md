@@ -4,19 +4,21 @@
       font-family: 'Times New Roman', Times, serif;
     }
   </style>-->
-<h2>Tentang Saya</h2>
+<h2>About Me</h2>
 <hr>
 <p class="mb-3">
-Saya, Ravalino Ghaisan H, seorang murid yang penuh semangat dan siap untuk membawa energi positif ke dunia profesional. Dengan latar belakang pendidikan dalam ilmu perangkat lunak, saya telah mendapatkan pemahaman yang kuat tentang ilmu perangkat lumak dan keterampilan praktis yang diperlukan untuk berkembang di dunia kerja.
+Hi, Ravalino Ghaisan Hasibuan is my goverment name, some may refer to me simply as Rava, Currently i am a student at <a href="https://smkn1jakarta.sch.id/">State Vocational High School 1 Jakarta<a/>, im interested in the field of Software engineering, game development, and a tad of Graphic design. I hope to keep learning and improving while helping the team wherever I can.
 </p>
 <br>
 
-<h2>Pendidikan</h2>
+<h2>Education</h2>
 <hr>
 <li>
-  [2024 - saat ini] SMKN 1 Jakarta | Jurusan Rekayasa Perangkat Lunak
+  [2024 - now] <a href="https://smkn1jakarta.sch.id/">State Vocational High School 1 Jakarta<a/> | Major: Software engineering
 </li>
 <p class="mb-3">
+  This major teaches students the skills and knowledge that are mandatory to create, manage, and develop many kinds of software, while also  
+  
 Jurusan ini mempersiapkan siswa/i untuk memiliki kemampuan dalam menciptakan, mengelola dan mengembangkan berbagai bentuk sistem perangkat lunak, seperti aplikasi mobile, aplikasi desktop, dan website 
 </p>
 <br>
@@ -39,13 +41,27 @@ Jurusan ini mempersiapkan siswa/i untuk memiliki kemampuan dalam menciptakan, me
 <li>
   Desain grafis
 </li>
-<!-- <li>
-    s
-</li> -->
+<li>
+  Ms Family
+</li>
+<li>
+  Figma
+</li>
+<li>
+  Blender
+</li>
+<li>
+  Luau (Roblox Lua)
+</li>
 </p>
 
 @Goodmancoming
-
+<br><br><br>
+<hr>
+<hr>
+connect with me at <a href="https://www.linkedin.com/in/ravalino-ghaisan-hasibuan-4077a2343/">Linkedin</a>
+<br>
+interested to create a ugc item at <a href="https://www.roblox.com/users/2243537164/profile">Roblox</a>?
 <!---
 Goodmancoming/Goodmancoming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
